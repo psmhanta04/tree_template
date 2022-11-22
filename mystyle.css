@@ -1,0 +1,39 @@
+body{
+	background-color:#e5ffcc;
+	text-align:justify;
+}
+
+#sh1{
+	padding-top:10px;
+	color:#1f601f;
+}
+
+#sh3{
+	color:#1f601f;
+	align:justify;
+}
+
+#sp{
+	color:#1f601f;
+	align:justify;
+	font-size:16px;
+}
+#table1{
+	color:#1f601f;
+	align:justify;
+	margin:50px;
+}
+
+
+li a {
+  display: block;
+  color: #e5ffcc;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
